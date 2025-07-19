@@ -1,6 +1,6 @@
  🌾 AgriData Explorer: Understanding Indian Agriculture with EDA
 
-![Dashboard Preview](./7775070f-ccf3-403b-bc2c-09e677bb51b0.png)
+![Dashboard Preview](.agridata_EDA_powerbi_Visual.png)
 
  📌 Project Overview
 
