@@ -1,6 +1,6 @@
  🌾 AgriData Explorer: Understanding Indian Agriculture with EDA
 
-![Dashboard Preview](.agridata_EDA_powerbi_Visual.png)
+![Dashboard Preview] https://github.com/Vaishnaviwork/Agriculture_data_explorer/blob/main/agridata_EDA_powerbi_Visual.png
 
  📌 Project Overview
 
