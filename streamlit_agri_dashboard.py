@@ -49,13 +49,13 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Sidebar with logo and description
+
 st.sidebar.image("https://cdn-icons-png.flaticon.com/512/2909/2909765.png", width=100)
 st.sidebar.markdown("<h2 style='color:#2e8b57;'>AgriData Explorer</h2>", unsafe_allow_html=True)
 st.sidebar.markdown("Analyze Indian agriculture data with interactive SQL-powered dashboards. Select a query and visualize insights instantly!")
 
 # Database connection
-db_url = "postgresql://vaishu28postgre_user:aqaeuIxkqI0wCixRwkUeFTz5JalzWlSO@dpg-d1pu2lidbo4c73bum3c0-a.singapore-postgres.render.com/vaishu28postgre"
+db_url = "postgresql://enter_your_db_url"
 engine = create_engine(db_url)
 
 # SQL queries for various analyses
